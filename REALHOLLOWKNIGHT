@@ -15,7 +15,7 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
 
 :root {
-  --background: url('https://wallpaperaccess.com/full/1703238.jpg');
+  --background: url('file:///C:/Users/Turki/Downloads/realhollowki.jpg');
   --backgroundsize: cover;
   --backgroundposition: center;
   --backgroundblur: 0px;
