@@ -30,7 +30,7 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://foggyproductions.com/img/foggypictures/html/hollow-knight/review/Hollow%20Knight_Naslovna.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -52,7 +52,7 @@
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
   --user-modal-blur: 3px;
-  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-icon: url('https://hollowknight.wiki.fextralife.com/file/Hollow-Knight/char_hollow_knight_wiki_infobox.png');
   --home-position: center;
   --home-size: 40px;
   --channel-unread: var(--main-color);
