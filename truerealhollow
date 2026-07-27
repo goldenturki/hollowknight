@@ -13,7 +13,7 @@
 
 :root {
   --background-image: url('https://wallpaperaccess.com/full/1703238.jpg');
-  --background-image-blur: 2px;
+  --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: var(--background-image);
