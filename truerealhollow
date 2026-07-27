@@ -1,5 +1,5 @@
 /**
- * @name asddasdsaasd
+ * @name truerealhollow
  * @author Gibbu
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness.
@@ -14,7 +14,7 @@
 :root {
   --background-image: url('https://wallpaperaccess.com/full/1703238.jpg');
   --background-image-blur: 0px;
-  --background-image-size: cover;
+  --background-image-size: 100%;
   --background-image-position: center;
   --popout-image: var(--background-image);
   --popout-image-blur: 5px;
